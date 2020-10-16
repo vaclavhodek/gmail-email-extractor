@@ -1,0 +1,6 @@
+out
+build
+local.properties
+.gradle
+credentials.json
+tokens
